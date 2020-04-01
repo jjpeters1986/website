@@ -1,3 +1,51 @@
+/* * {
+    margin: 0;
+} */
+
 body {
-    background-color: cadetblue;
+    margin: 0;
+    text-align: center;
 }
+
+h1 {
+    margin-top: 0;
+}
+
+.top_container {
+    background-color: #a4c5c6;
+    position: relative;
+    padding-top: 100px;
+    font-family: 'Lobster', cursive;
+    font-size: 2rem;
+    color: #856c8b;
+}
+
+.middle_container {
+    width: 200px;
+    height: 200px;
+}
+
+.bottom_container {
+    width: 200px;
+    height: 200px;
+    
+}
+
+.pro {
+    text-decoration: underline;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 350px;
+    top: 50px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 350px;
+    bottom: 300px;
+}
+
+
+
